@@ -1,4 +1,13 @@
+# React Native Scanner Google Pay Like UI
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+# Built With 
+- @gorhom/bottom-sheet v4.5.1
+- @shopify/react-native-skia v0.1.218
+- lottie-react-native v6.4.0
+- react-native-svg v13.14.0
+- react-native-vision-camera v3.6.4
 
 # Getting Started
 
